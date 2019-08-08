@@ -1,4 +1,4 @@
-# MAKERphone-LuaRTOS
+# CircuitMess-Ringo-LuaRTOS
 
 ## Install python
 
